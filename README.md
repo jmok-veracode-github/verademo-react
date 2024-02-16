@@ -8,7 +8,7 @@ The Verademo application example is a simple .NET Core web application with a An
 
 >[!NOTE]
 >The demo application does not have any major weaknesses or vulnerabilities reported within the main branch. As the purpose of this project is to illustrate integration of the Veracode Tools.
-
+ 
 ## Azure DevOps Project
 The azure devops project and pipelines used to build and analyze this demonstration application is located within this project on Azure DevOps: [Veracodemo-React](https://dev.azure.com/veracode-demonstration/verademo-react)
 
